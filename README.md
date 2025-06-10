@@ -52,7 +52,7 @@ In a project like a YouTube Clone, React can be used for:
 
   ![Project Screenshot](ytube.png)
 
-
+ ![Project Screenshot](ytube1.png)
 
 
 
