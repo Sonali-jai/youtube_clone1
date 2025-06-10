@@ -22,3 +22,19 @@ A *flowchart* is a visual representation of a process, system, or algorithm, usi
 
 
   ![Project Screenshot](flow.webp)
+
+Technologies Used
+HTML5
+JavaScript
+CSS3
+ReactJs
+
+
+
+
+
+
+
+
+
+  
