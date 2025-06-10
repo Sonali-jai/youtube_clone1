@@ -50,7 +50,7 @@ In a project like a YouTube Clone, React can be used for:
 
 🔄 Routing: With React Router, you can navigate between pages (like home, video detail, or channel pages) without reloading the site, mimicking the single-page application (SPA) behavior of YouTube.
 
-  ![Project Screenshot](youtube .jpg)
+  ![Project Screenshot](ytube.png)
 
 
 
