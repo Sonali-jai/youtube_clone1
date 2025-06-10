@@ -21,4 +21,4 @@ Features
 A *flowchart* is a visual representation of a process, system, or algorithm, using various symbols to denote different types of actions or steps and arrows to show the flow of control. Typically, rectangles are used to represent processes or instructions, diamonds for decision points, ovals for start or end points, and arrows to indicate the direction of flow. Flowcharts help simplify complex tasks, making it easier to understand, analyze, and communicate how a particular process works. They are widely used in programming, system design, business analysis, and project management to outline logic, plan workflows, or identify potential errors and inefficiencies before actual implementation.
 
 
-  ![Project Screenshot](flowchart.png)
+  ![Project Screenshot](flow.webp)
